@@ -15,3 +15,7 @@ The pygame port for codon.
 because the normal `codon run causes - llvm error` on some devices.
 ### Run
     `./simple`
+### Examples
+- In example folder
+    - simple.py
+    - snake.py
